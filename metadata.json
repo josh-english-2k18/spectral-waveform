@@ -1,0 +1,7 @@
+{
+  "name": "Spectral Waveform Deconstructor Pro",
+  "description": "A high-fidelity audio analysis suite that decomposes sound into discrete frequency bands using Fourier transforms and real-time biquad filtering, featuring Gemini-powered sonic insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
