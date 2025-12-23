@@ -8,6 +8,8 @@ Spectral Waveform Deconstructor Pro is a high-performance Digital Signal Process
 ![Engine: Web Audio API](https://img.shields.io/badge/Engine-Web_Audio_API-00BF63?style=for-the-badge)
 ![AI: Gemini 3 Flash](https://img.shields.io/badge/AI-Gemini_3_Flash-8C52FF?style=for-the-badge)
 
+![Spectral Waveform Deconstructor Pro Interface](screenshot.png)
+
 ---
 
 ## 🏗 System Architecture
